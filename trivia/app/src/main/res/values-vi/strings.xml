@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Trivia</string>
+
+    <string name="title_text">Trivia</string>
+
+    <!--<string name="out_of_text">Question: 88/96</string>-->
+    <string name="out_of_text">Câu hỏi: Đang tải…</string>
+    <string name="true_button">Đúng</string>
+    <string name="false_button">Sai</string>
+    <string name="next_button">Tiếp</string>
+    <string name="correct_answer">✅ Chính xác!</string>
+    <string name="incorrect_answer">❌ Không đúng.</string>
+    <!--<string name="placeholder">Hello world this is where we are going to add the actual text to be shown!</string>-->
+    <string name="placeholder">Đang tải…</string>
+
+    <string name="textViewOutOf_formatted">Câu hỏi: %d/%d</string>
+    <string name="currentScoreText_formatted">Điểm: %d</string>
+    <string name="highestScoreText_formatted">Cao nhất: %d</string>
+
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Trivia</string>
+
+    <string name="title_text">Trivia</string>
+
+    <!--<string name="out_of_text">Question: 88/96</string>-->
+    <string name="out_of_text">Question: Loading…</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="correct_answer">✅ Correct!</string>
+    <string name="incorrect_answer">❌ Incorrect.</string>
+    <!--<string name="placeholder">Hello world this is where we are going to add the actual text to be shown!</string>-->
+    <string name="placeholder">Loading…</string>
+
+    <string name="textViewOutOf_formatted">Question: %d/%d</string>
+    <string name="currentScoreText_formatted">Score: %d</string>
+    <string name="highestScoreText_formatted">Highest: %d</string>
+
+</resources>
